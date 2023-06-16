@@ -9,7 +9,7 @@
   <img src="https://github.com/dauid64/chess_java/assets/94979678/bde06571-089b-4893-892e-8d70fce7b51a" alt="Imagem do projeto">
 </p>
 
-> Projeto feito com o objetivo de práticar estudos feitos em curso da linguagem java. Simulando um jogo de xadrez.
+> Projeto feito com o objetivo de práticar estudos feitos em um curso feito por mim sobre a linguagem java, simulando um jogo de xadrez.
 
 ## 💻 Pré-requisitos
 
