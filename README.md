@@ -20,7 +20,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## ☕ Usando Chess Java
 
-Para usar Chess Java, siga estas etapas:
+Para usar o Chess Java, siga estas etapas:
 
 * Iniciando programa
 ```
