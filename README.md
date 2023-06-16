@@ -18,26 +18,25 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente do `<Java>`
 * Você tem uma máquina `<Windows / Linux / Mac>`.
 
+## ☕ Usando Chess Java
 
-## 🚀 Instalando Chess Java
+Para usar Chess Java, siga estas etapas:
 
-Para instalar o Chess Java, siga estas etapas:
-
-Windows, Linux e macOS:
+* Iniciando programa
 ```
 cd .../chess_java/bin
 java application/Program
 ```
 
-## ☕ Usando Chess Java
+* O sistema é idêntico a um jogo de xadrez convencional.
+* Sempre irá começar pelas peças brancas você irá digitar através dos nomes de cada casa que são identificados por a-h + 1-8, então você escolherá a peça que irá se mover como por exemplo "d2"
 
-Para usar Chess Java, siga estas etapas:
+<p align="center">
+  <img src="https://github.com/dauid64/chess_java/assets/94979678/9f5a17ad-8022-4ac8-9569-05bb2be5324f" alt="Imagem do projeto">
+</p>
 
-O sistema é idêntico ao um jogo de xadrez convencional.
-Sempre irá começar pelas peças brancas você irá digitar através dos nomes de cada casa que são identificados por a-h + 1-8, então você escolherá a peça que irá se mover como por exemplo "d2"
+* Depois basta digitar a casa disponível onde deseja andar que está demarcada com a cor azul e seguir com o jogo.
 
-<img src="https://github.com/dauid64/chess_java/assets/94979678/9f5a17ad-8022-4ac8-9569-05bb2be5324f" alt="Imagem do projeto">
+* Recomendado: para aproveitar melhor escolha um prompt de comando que disponibiliza cores ( ex: Git Bash )
 
-Depois basta digitar a casa disponível onde deseja andar que está demarcada com a cor azul e seguir com o jogo.
-
-*Recomendado: para aproveitar melhor escolha um prompt de comando que disponibiliza cores ( ex: Git Bash)
+<h1 align="center">Divirta-se🥳</h1>
